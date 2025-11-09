@@ -1,0 +1,23 @@
+# Compiled Object files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# VS Code settings (optional - remove if you want to share settings)
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+build/
+bin/
+obj/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
